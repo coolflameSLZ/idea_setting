@@ -1,0 +1,28 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="The worker sub-command must be specified in argv." />
+      <item value="Kurtosis" />
+      <item value="Skewness" />
+      <item value="If completeEarly was true we still want to continue processing the queries to ensure we still put everything in the cache eventually." />
+      <item value="necessary" />
+      <item value="An IOException on a write is almost always due to the remote client aborting the request. Wrap this so that it can be handled better by the error dispatcher." />
+      <item value="transpose" />
+      <item value="payful" />
+      <item value="source" />
+      <item value="bias" />
+      <item value="detach" />
+      <item value="Synergy" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1625762894817" />
+  </component>
+</application>

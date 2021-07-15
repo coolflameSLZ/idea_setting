@@ -1,0 +1,9 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://io.mycat/" />
+    <ignored-resource url="http://maven.apache.org/POM/4.0.0" />
+    <ignored-resource url="http://www.mycat.org.cn" />
+    <ignored-resource url="https://maven.apache.org/xsd/maven-4.0.0.xsd" />
+    <ignored-resource url="server.dtd" />
+  </component>
+</application>

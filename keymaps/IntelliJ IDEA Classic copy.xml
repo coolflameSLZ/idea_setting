@@ -1,0 +1,15 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" />
+  </action>
+  <action id="leetcode.OpenInWebAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt w" />
+  </action>
+  <action id="leetcode.SubmitAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
+  </action>
+</keymap>

@@ -1,0 +1,9 @@
+<templateSet group="customerGroup">
+  <template name="author" value="/**&#10; * @author sunlizhong&#10; * @date $date$ $time$ &#10; */" shortcut="TAB" description="添加作者注释" toReformat="true" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="true" />
+    </context>
+  </template>
+</templateSet>

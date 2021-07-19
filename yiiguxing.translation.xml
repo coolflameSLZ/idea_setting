@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corpus become an expression form of the word bag" />
+      <item value="Remember passed id2word when you call, so before we know the correspondence between the numbers and output on output. Need to set up into how many topic" />
+      <item value="corpora corpus model, models present LDA model, similarities similarity measurement model" />
       <item value="The worker sub-command must be specified in argv." />
       <item value="Kurtosis" />
       <item value="Skewness" />
@@ -16,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="HINDI" value="1" />
       </map>
     </option>

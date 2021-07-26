@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="animations" />
+      <item value="Whether to collapse sub-headings when they are out-of-view" />
+      <item value="Whether to show the index of each heading" />
       <item value="Whether the sidebar sticks to the top when page scrolls" />
       <item value="Whether to show estimated article reading time" />
       <item value="highlight" />
@@ -23,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="HINDI" value="1" />
       </map>
     </option>

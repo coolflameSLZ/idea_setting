@@ -10,8 +10,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="md" type="Native" />
       <mapping ext="xmind" type="Native" />
-      <removed_mapping ext="yml" type="SnakeYAML" />
-      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
@@ -20,6 +19,7 @@
       <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
+      <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
     </extensionMap>
   </component>
 </application>

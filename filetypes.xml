@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="x" type="AUTO_DETECTED" />
       <mapping pattern="xxx" type="AUTO_DETECTED" />
+      <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="path" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-base" type="Dockerfile" />
       <mapping ext="space.kts" type="Kotlin" />

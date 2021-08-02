@@ -29,5 +29,10 @@
         <entry key="876e9eb9" value="2" />
       </map>
     </option>
+    <option name="usedLanguages">
+      <set>
+        <option value="java" />
+      </set>
+    </option>
   </component>
 </application>

@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/develop/tmp" />
         <option value="$USER_HOME$/develop/private" />
+        <option value="$USER_HOME$/develop/opensource" />
       </list>
     </option>
   </component>

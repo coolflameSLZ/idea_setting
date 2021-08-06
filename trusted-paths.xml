@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/develop/tmp" />
+        <option value="$USER_HOME$/develop/private" />
       </list>
     </option>
   </component>

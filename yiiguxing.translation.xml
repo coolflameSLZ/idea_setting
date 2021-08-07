@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A collection that associates an ordered pair of keys, called a row key and a column key, with a single value. A table may be sparse, with only a small fraction of row key column key pairs possessing a corresponding value. &lt;p&gt;The mappings corresponding to a given row key may be viewed as a {@link Map} whose keys are the columns. The reverse is also available, associating a column with a row key value map. Note that, in some implementations, data access by column key may have fewer supported operations or worse performance than data access by row key. &lt;p&gt;The methods returning collections or maps always return views of the underlying table. Updating the table can change the contents of those collections, and updating the collections will change the table. &lt;p&gt;All methods that modify the table are optional, and the views returned by the table may or may not be modifiable. When modification isn't supported, those methods will throw an {@link UnsupportedOperationException}. &lt;p&gt;See the Guava User Guide article on &lt;a href= &quot;https:github.comgoogleguavawikiNewCollectionTypesExplainedtable&quot;&gt; {@code Table}&lt;a&gt;." />
       <item value="Implementation of {@code Table} whose iteration ordering across row keys is sorted by their natural ordering or by a supplied comparator. Note that iterations across the columns keys for a single row key may or may not be ordered, depending on the implementation. When rows and columns are both sorted, it's easier to use the {@link TreeBasedTable} subclass. &lt;p&gt;The {@link rowKeySet} method returns a {@link SortedSet} and the {@link rowMap} method returns a {@link SortedMap}, instead of the {@link Set} and {@link Map} specified by the {@link Table} interface. &lt;p&gt;Null keys and values are not supported. &lt;p&gt;See the {@link StandardTable} superclass for more information about the behavior of this class. @author Jared Levy" />
       <item value="Inactive" />
       <item value="extracted" />
@@ -34,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="HINDI" value="1" />
       </map>
     </option>

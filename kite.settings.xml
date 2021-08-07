@@ -1,8 +1,8 @@
 <application>
   <component name="kite">
+    <option name="paramInfoDelayEnabled" value="false" />
     <option name="startKiteAtStartup" value="false" />
     <option name="showWelcomeNotification" value="false" />
-    <option name="showPopularPatterns" value="true" />
-    <option name="showKwargs" value="true" />
+    <option name="useNewCompletions" value="false" />
   </component>
 </application>

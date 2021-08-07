@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Implementation of {@code Table} whose iteration ordering across row keys is sorted by their natural ordering or by a supplied comparator. Note that iterations across the columns keys for a single row key may or may not be ordered, depending on the implementation. When rows and columns are both sorted, it's easier to use the {@link TreeBasedTable} subclass. &lt;p&gt;The {@link rowKeySet} method returns a {@link SortedSet} and the {@link rowMap} method returns a {@link SortedMap}, instead of the {@link Set} and {@link Map} specified by the {@link Table} interface. &lt;p&gt;Null keys and values are not supported. &lt;p&gt;See the {@link StandardTable} superclass for more information about the behavior of this class. @author Jared Levy" />
       <item value="Inactive" />
       <item value="extracted" />
       <item value="URL to your site's cookie policy" />
@@ -33,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="HINDI" value="1" />
       </map>
     </option>

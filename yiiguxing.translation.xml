@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Asynchronous execute the callback abnormally." />
+      <item value="the reference count used for this connection. If equals 2, it means this connection has been referenced 2 times" />
       <item value="WRITE BUFFER WATER MARK" />
       <item value="Synchronized collection views. The returned synchronized collection views are serializable if the backing collection and the mutex are serializable. &lt;p&gt;If {@code null} is passed as the {@code mutex} parameter to any of this class's top-level methods or inner class constructors, the created object uses itself as the synchronization mutex. &lt;p&gt;This class should be used by other collection classes only. @author Mike Bostock @author Jared Levy" />
       <item value="Returns a synchronized (thread-safe) table backed by the specified table. In order to guarantee serial access, it is critical that &lt;b&gt;all&lt;b&gt; access to the backing table is accomplished through the returned table. &lt;p&gt;It is imperative that the user manually synchronize on the returned table when accessing any of its collection views: &lt;pre&gt;{@code Table&lt;R, C, V&gt; table = Tables.synchronizedTable(HashBasedTable.&lt;R, C, V&gt;create()); ... Map&lt;C, V&gt; row = table.row(rowKey); Needn't be in synchronized block ... synchronized (table) { Synchronizing on table, not row! Iterator&lt;Entry&lt;C, V&gt;&gt; i = row.entrySet().iterator(); Must be in synchronized block while (i.hasNext()) { foo(i.next()); } } }&lt;pre&gt; &lt;p&gt;Failure to follow this advice may result in non-deterministic behavior. &lt;p&gt;The returned table will be serializable if the specified table is serializable. @param table the table to be wrapped in a synchronized view @return a synchronized view of the specified table @since 22.0" />
@@ -38,13 +40,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628315798926" />
+    <option name="lastTrimTime" value="1628882974407" />
   </component>
 </application>

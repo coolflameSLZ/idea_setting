@@ -6,6 +6,7 @@
         <option value="$USER_HOME$/develop/private" />
         <option value="$USER_HOME$/develop/opensource" />
         <option value="$USER_HOME$/develop/learn" />
+        <option value="$USER_HOME$/Downloads" />
       </list>
     </option>
   </component>

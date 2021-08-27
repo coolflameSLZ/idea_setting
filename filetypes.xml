@@ -11,6 +11,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="md" type="Native" />
       <mapping ext="xmind" type="Native" />
+      <mapping ext="python" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />

@@ -12,12 +12,6 @@
       <mapping ext="md" type="Native" />
       <mapping ext="xmind" type="Native" />
       <mapping ext="python" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
-      <mapping ext="yaml" type="YAML_EX" />
-      <mapping ext="yml" type="YAML_EX" />
-      <mapping ext="txt" type="requirements.txt" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
@@ -26,8 +20,11 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml" approved="true" type="SnakeYAML" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="SnakeYAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>

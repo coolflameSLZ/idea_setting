@@ -2,6 +2,7 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="useD1" value="1669732826315" />
         <option name="valid" value="true" />
       </Profile>
     </option>
